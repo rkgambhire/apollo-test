@@ -1,2 +1,2 @@
 # apollo-test
-this is test repository for apollo dev 2 second commit
+this is test repository for apollo dev 2 second pull
